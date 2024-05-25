@@ -1,0 +1,805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8585,
+          -31.9548
+        ]
+      },
+      "properties": {
+        "Name": "Long Chim Perth",
+        "Address": "State Buildings, Perth",
+        "Suburb": "Perth CBD",
+        "Website": "https://www.longchimperth.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.859,
+          -31.9458
+        ]
+      },
+      "properties": {
+        "Name": "Louder Louder",
+        "Address": "47 Lake Street, Northbridge",
+        "Suburb": "Northbridge",
+        "Website": "https://www.louderlouder.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8605,
+          -31.9434
+        ]
+      },
+      "properties": {
+        "Name": "S&T Thai Gourmet Cafe",
+        "Address": "347 William Street, Northbridge",
+        "Suburb": "Northbridge",
+        "Website": "https://www.facebook.com/stthaigourmetcafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8396,
+          -31.9497
+        ]
+      },
+      "properties": {
+        "Name": "Tim's Thai",
+        "Address": "1297 Hay Street, West Perth",
+        "Suburb": "West Perth",
+        "Website": "https://www.tims-thai.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8654,
+          -31.958
+        ]
+      },
+      "properties": {
+        "Name": "Wok & Ladle",
+        "Address": "8/232 Hay Street, East Perth",
+        "Suburb": "East Perth",
+        "Website": "https://www.facebook.com/wokandladle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8624,
+          -31.9323
+        ]
+      },
+      "properties": {
+        "Name": "Full Moon Thai",
+        "Address": "310 Walcott Street, Menora",
+        "Suburb": "Menora",
+        "Website": "https://www.fullmoonthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8531,
+          -31.9331
+        ]
+      },
+      "properties": {
+        "Name": "Khanom Thai",
+        "Address": "382 Fitzgerald Street, North Perth",
+        "Suburb": "North Perth",
+        "Website": "https://www.facebook.com/khanomthai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8194,
+          -31.9782
+        ]
+      },
+      "properties": {
+        "Name": "Ma Kin Thai",
+        "Address": "Shop 2/10 Broadway, Crawley",
+        "Suburb": "Crawley",
+        "Website": "https://www.makinthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7388,
+          -31.8253
+        ]
+      },
+      "properties": {
+        "Name": "Dusit Dheva",
+        "Address": "Shop 206, Sorrento Quay Boardwalk, Hillarys",
+        "Suburb": "Hillarys",
+        "Website": "https://www.dusitdheva.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8605,
+          -31.9511
+        ]
+      },
+      "properties": {
+        "Name": "Chuonkin",
+        "Address": "137 Barrack Street, Perth",
+        "Suburb": "Perth CBD",
+        "Website": "https://www.instagram.com/chuonkin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8531,
+          -31.9331
+        ]
+      },
+      "properties": {
+        "Name": "Sa-Lung",
+        "Address": "382 Fitzgerald Street, North Perth",
+        "Suburb": "North Perth",
+        "Website": "https://www.instagram.com/sa_lung_thai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7911,
+          -32.0374
+        ]
+      },
+      "properties": {
+        "Name": "Rym Tarng",
+        "Address": "Shop 8, Bicton Central Shopping Centre",
+        "Suburb": "Bicton",
+        "Website": "https://www.rymtarng.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7495,
+          -32.0567
+        ]
+      },
+      "properties": {
+        "Name": "Sala Thai",
+        "Address": "22 Norfolk Street, Fremantle",
+        "Suburb": "Fremantle",
+        "Website": "https://www.salathai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.748,
+          -32.0564
+        ]
+      },
+      "properties": {
+        "Name": "Spice Market",
+        "Address": "135 High Street Mall, Fremantle",
+        "Suburb": "Fremantle",
+        "Website": "https://www.spicemarketthai.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7523,
+          -31.9941
+        ]
+      },
+      "properties": {
+        "Name": "Dusit Cottesloe",
+        "Address": "5/7 Station Street, Cottesloe",
+        "Suburb": "Cottesloe",
+        "Website": "https://dusit-cottesloe.tuckerfox.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8287,
+          -32.0292
+        ]
+      },
+      "properties": {
+        "Name": "Thai Esarn Restaurant",
+        "Address": "Ardross, Perth",
+        "Suburb": "Ardross",
+        "Website": "https://www.thai-esarn.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8287,
+          -32.0292
+        ]
+      },
+      "properties": {
+        "Name": "Paste Thai",
+        "Address": "Ardross, Perth",
+        "Suburb": "Ardross",
+        "Website": "https://www.pastethaiperth.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8996,
+          -31.8988
+        ]
+      },
+      "properties": {
+        "Name": "Basil & Mint",
+        "Address": "Morley, Perth",
+        "Suburb": "Morley",
+        "Website": "https://www.basilmintthai.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.841,
+          -31.9361
+        ]
+      },
+      "properties": {
+        "Name": "Six Senses Gourmet Thai",
+        "Address": "Leederville, Perth",
+        "Suburb": "Leederville",
+        "Website": "https://www.sixsenses.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7545,
+          -31.9955
+        ]
+      },
+      "properties": {
+        "Name": "Wrap n Rice Thai Cafe",
+        "Address": "Cottesloe, Perth",
+        "Suburb": "Cottesloe",
+        "Website": "https://www.wrapnrice.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7508,
+          -32.0556
+        ]
+      },
+      "properties": {
+        "Name": "The Loft Cafe",
+        "Address": "Fremantle, Perth",
+        "Suburb": "Fremantle",
+        "Website": "https://www.theloftcafe.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8605,
+          -31.9505
+        ]
+      },
+      "properties": {
+        "Name": "Saowanee's Place",
+        "Address": "Perth, WA",
+        "Suburb": "Perth CBD",
+        "Website": "https://www.saowaneesplace.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7997,
+          -31.9369
+        ]
+      },
+      "properties": {
+        "Name": "Thai Tation",
+        "Address": "Floreat, Perth",
+        "Suburb": "Floreat",
+        "Website": "https://www.thaitation.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8362,
+          -31.9232
+        ]
+      },
+      "properties": {
+        "Name": "Tamarind",
+        "Address": "Mount Hawthorn, Perth",
+        "Suburb": "Mount Hawthorn",
+        "Website": "https://www.tamarindthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8144,
+          -32.0437
+        ]
+      },
+      "properties": {
+        "Name": "Colours of Thai",
+        "Address": "Melville, Perth",
+        "Suburb": "Melville",
+        "Website": "https://www.coloursofthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8595,
+          -31.9535
+        ]
+      },
+      "properties": {
+        "Name": "Soi Shafto Thai Bistro",
+        "Address": "Perth CBD, Perth",
+        "Suburb": "Perth CBD",
+        "Website": "https://www.soishafto.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8988,
+          -31.9745
+        ]
+      },
+      "properties": {
+        "Name": "Healthy Thai Vegan Vegetarian",
+        "Address": "East Victoria Park, Perth",
+        "Suburb": "East Victoria Park",
+        "Website": "https://www.healthyvegthaitation.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8935,
+          -31.9685
+        ]
+      },
+      "properties": {
+        "Name": "Little Ying Thai",
+        "Address": "Victoria Park, Perth",
+        "Suburb": "Victoria Park",
+        "Website": "https://www.littleyingthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8605,
+          -31.9505
+        ]
+      },
+      "properties": {
+        "Name": "Thai Esarn Restaurant",
+        "Address": "Perth, WA",
+        "Suburb": "Perth CBD",
+        "Website": "https://www.thai-esarn.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7902,
+          -31.8996
+        ]
+      },
+      "properties": {
+        "Name": "Tao Cafe",
+        "Address": "Innaloo, Perth",
+        "Suburb": "Innaloo",
+        "Website": "https://www.taocafe.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.89,
+          -31.9012
+        ]
+      },
+      "properties": {
+        "Name": "Mae Khong Thai Restaurant",
+        "Address": "56 Walter Rd W, Bedford",
+        "Suburb": "Bedford",
+        "Website": "https://www.maekhongthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8575,
+          -31.9761
+        ]
+      },
+      "properties": {
+        "Name": "Thai Orchid South Perth",
+        "Address": "35 Mends Street, South Perth",
+        "Suburb": "South Perth",
+        "Website": "https://www.thaiorchidsouthperth.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8655,
+          -31.9455
+        ]
+      },
+      "properties": {
+        "Name": "Baan Baan",
+        "Address": "172 Newcastle Street, Perth",
+        "Suburb": "Perth CBD",
+        "Website": "https://www.baanbaanperth.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8575,
+          -31.9336
+        ]
+      },
+      "properties": {
+        "Name": "Thai O'clock",
+        "Address": "9/265 Walcott St, North Perth",
+        "Suburb": "North Perth",
+        "Website": "https://www.facebook.com/thaio'clock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8657,
+          -31.9505
+        ]
+      },
+      "properties": {
+        "Name": "Mae Ping Thai Dining",
+        "Address": "161-165 South Street, Perth",
+        "Suburb": "Perth CBD",
+        "Website": "https://www.maepingthaiperth.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8778,
+          -31.9603
+        ]
+      },
+      "properties": {
+        "Name": "Pinto Thai",
+        "Address": "24/60 Royal St, East Perth",
+        "Suburb": "East Perth",
+        "Website": "https://www.pintothai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9375,
+          -31.9568
+        ]
+      },
+      "properties": {
+        "Name": "King & I Thai Cuisine",
+        "Address": "1/78 Great Eastern Hwy, Belmont",
+        "Suburb": "Belmont",
+        "Website": "https://www.kingandithaicuisine.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0021,
+          -31.8898
+        ]
+      },
+      "properties": {
+        "Name": "Tansawa Modern Thai",
+        "Address": "276 Great Eastern Hwy, Midland",
+        "Suburb": "Midland",
+        "Website": "https://www.tansawamodernthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8645,
+          -31.9458
+        ]
+      },
+      "properties": {
+        "Name": "Chilli Panda",
+        "Address": "139 Newcastle Street, Perth",
+        "Suburb": "Perth CBD",
+        "Website": "https://www.chillipandaperth.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7812,
+          -31.9782
+        ]
+      },
+      "properties": {
+        "Name": "Chilli Orange",
+        "Address": "244 Stirling Hwy, Claremont",
+        "Suburb": "Claremont",
+        "Website": "https://www.chilliorange.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8705,
+          -31.9614
+        ]
+      },
+      "properties": {
+        "Name": "Siam Thai Restaurant",
+        "Address": "6/60 Royal Street, East Perth",
+        "Suburb": "East Perth",
+        "Website": "https://www.siamthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9075,
+          -31.9931
+        ]
+      },
+      "properties": {
+        "Name": "Noks Thai",
+        "Address": "1/800 Albany Hwy, East Victoria Park",
+        "Suburb": "East Victoria Park",
+        "Website": "https://www.noksthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8354,
+          -32.0369
+        ]
+      },
+      "properties": {
+        "Name": "Galangal Thai Cuisine",
+        "Address": "3/31 Ardross Street, Applecross",
+        "Suburb": "Applecross",
+        "Website": "https://www.galangal.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8432,
+          -31.9434
+        ]
+      },
+      "properties": {
+        "Name": "Little Chilli Padi",
+        "Address": "137 Cambridge St, West Leederville",
+        "Suburb": "West Leederville",
+        "Website": "https://www.littlechillipadi.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7812,
+          -31.9782
+        ]
+      },
+      "properties": {
+        "Name": "Nasi Lemak Korner",
+        "Address": "244 Stirling Hwy, Claremont",
+        "Suburb": "Claremont",
+        "Website": "https://www.nasilemakkorner.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8445,
+          -31.9384
+        ]
+      },
+      "properties": {
+        "Name": "Ting's Thai",
+        "Address": "120 Oxford St, Leederville",
+        "Suburb": "Leederville",
+        "Website": "https://www.tingsthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7632,
+          -32.0505
+        ]
+      },
+      "properties": {
+        "Name": "Ladyboy Dining",
+        "Address": "22/155 Canning Hwy, East Fremantle",
+        "Suburb": "East Fremantle",
+        "Website": "https://www.ladyboydining.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8345,
+          -31.9244
+        ]
+      },
+      "properties": {
+        "Name": "Vincent Thai Restaurant",
+        "Address": "393 Oxford Street, Mount Hawthorn",
+        "Suburb": "Mount Hawthorn",
+        "Website": "https://www.vincentthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8423,
+          -32.0352
+        ]
+      },
+      "properties": {
+        "Name": "Kaew Thai",
+        "Address": "3/18 Welwyn Ave, Manning",
+        "Suburb": "Manning",
+        "Website": "https://www.kaewthai.com.au"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9023,
+          -31.9745
+        ]
+      },
+      "properties": {
+        "Name": "Nu Thai",
+        "Address": "214 Campbell Road, Canning Vale",
+        "Suburb": "Canning Vale",
+        "Website": "https://www.nuthai.com.au"
+      }
+    }
+  ]
+}
